@@ -1,1 +1,2 @@
 ﻿{"CLs":[{"__type":"LD","Var":"Coil1"},{"__type":"ST","Ix":1,"Var":"Coil1","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+{"CLs":[{"__type":"LD","Var":"Coil2"},{"__type":"ST","Ix":1,"Var":"Coil2","X":1}],"CMT":"Branch1","LRI":2,"RRI":3,"VLs":[]}
